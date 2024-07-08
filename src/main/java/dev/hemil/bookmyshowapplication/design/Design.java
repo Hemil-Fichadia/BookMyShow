@@ -1,8 +1,7 @@
 package dev.hemil.bookmyshowapplication.design;
 
 public class Design {
-    public static void main(String[] args){
-        /* BookMyShow
+    /* BookMyShow
         Overview :-
         1) Align yourself with interviewer's understandings.
         2) What to design ? means an Entity relation diagram, or a command line application or a REST API.
@@ -102,5 +101,4 @@ public class Design {
             List<ShowSeat>
         }
         * */
-    }
 }
